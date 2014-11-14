@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\BlockBreaker\BlockBreaker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\BlockBreaker\BlockBreaker\obj\Debug\BlockBreaker.FormMain.resources
+C:\Users\Administrator\Desktop\BlockBreaker\BlockBreaker\obj\Debug\BlockBreaker.Properties.Resources.resources
+C:\Users\Administrator\Desktop\BlockBreaker\BlockBreaker\obj\Debug\BlockBreaker.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\BlockBreaker\BlockBreaker\bin\Debug\BlockBreaker.exe
+C:\Users\Administrator\Desktop\BlockBreaker\BlockBreaker\bin\Debug\BlockBreaker.pdb
+C:\Users\Administrator\Desktop\BlockBreaker\BlockBreaker\obj\Debug\BlockBreaker.exe
+C:\Users\Administrator\Desktop\BlockBreaker\BlockBreaker\obj\Debug\BlockBreaker.pdb
+D:\3_eData\1_University_Data\17_Computer Graphic 1\BlockBreaker\BlockBreaker\obj\Debug\BlockBreaker.exe
+D:\3_eData\1_University_Data\17_Computer Graphic 1\BlockBreaker\BlockBreaker\obj\Debug\BlockBreaker.pdb
+D:\3_eData\1_University_Data\17_Computer Graphic 1\BlockBreaker\BlockBreaker\bin\Debug\BlockBreaker.exe
+D:\3_eData\1_University_Data\17_Computer Graphic 1\BlockBreaker\BlockBreaker\bin\Debug\BlockBreaker.pdb
+D:\3_eData\1_University_Data\17_Computer Graphic 1\BlockBreaker\BlockBreaker\obj\Debug\ResolveAssemblyReference.cache
+D:\3_eData\1_University_Data\17_Computer Graphic 1\BlockBreaker\BlockBreaker\obj\Debug\BlockBreaker.FormMain.resources
+D:\3_eData\1_University_Data\17_Computer Graphic 1\BlockBreaker\BlockBreaker\obj\Debug\BlockBreaker.Properties.Resources.resources
+D:\3_eData\1_University_Data\17_Computer Graphic 1\BlockBreaker\BlockBreaker\obj\Debug\ResGen.read.1.tlog
+D:\3_eData\1_University_Data\17_Computer Graphic 1\BlockBreaker\BlockBreaker\obj\Debug\ResGen.write.1.tlog
